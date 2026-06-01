@@ -1,0 +1,4 @@
+user-agent:* Allow:/
+
+sitemap:
+https//kafsellbread.github.io/kafsell-bread/sitemap.xml
